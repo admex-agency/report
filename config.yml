@@ -19,3 +19,23 @@ google_news_rss:
   - "https://news.google.com/rss/search?q=Mizuki%20Park%20Nam%20Long%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
   - "https://news.google.com/rss/search?q=Akari%20City%20Nam%20Long%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
   - "https://news.google.com/rss/search?q=Elyse%20Island%20Nam%20Long%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
+
+news_sources:
+  - cafef.vn
+  - cafebiz.vn
+  - vneconomy.vn
+  - vietnambiz.vn
+  - baodautu.vn
+  - nhadautu.vn
+  - vietnamfinance.vn
+  - theleader.vn
+  - nhipcaudautu.vn
+  - cafeland.vn
+  - batdongsan.com.vn
+  - reatimes.vn
+  - baoxaydung.vn
+  - vnexpress.net
+  - vietnamnet.vn
+  - dantri.com.vn
+  - tuoitre.vn
+  - thanhnien.vn
