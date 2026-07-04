@@ -127,6 +127,10 @@ def send_telegram(message):
     }
 
     response = requests.post(url, json=payload, timeout=30)
+
+    print("TELEGRAM STATUS:", response.status_code)
+    print("TELEGRAM RESPONSE:", response.text)
+
     response.raise_for_status()
 
 
