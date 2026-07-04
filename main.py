@@ -123,7 +123,6 @@ def send_telegram(message):
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
         "text": message,
-        "parse_mode": "HTML",
         "disable_web_page_preview": True
     }
 
