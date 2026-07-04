@@ -1,0 +1,21 @@
+client_name: "Nam Long Group"
+
+keywords:
+  - "Nam Long"
+  - "Nam Long Group"
+  - "Waterpoint"
+  - "Izumi City"
+  - "Mizuki Park"
+  - "Akari City"
+  - "Elyse Island"
+  - "Southgate"
+  - "Nam Long Đại Phước"
+  - "Nam Long Cần Thơ"
+
+google_news_rss:
+  - "https://news.google.com/rss/search?q=Nam%20Long%20Group%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
+  - "https://news.google.com/rss/search?q=Nam%20Long%20Waterpoint%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
+  - "https://news.google.com/rss/search?q=Izumi%20City%20Nam%20Long%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
+  - "https://news.google.com/rss/search?q=Mizuki%20Park%20Nam%20Long%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
+  - "https://news.google.com/rss/search?q=Akari%20City%20Nam%20Long%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
+  - "https://news.google.com/rss/search?q=Elyse%20Island%20Nam%20Long%20when:1d&hl=vi&gl=VN&ceid=VN:vi"
